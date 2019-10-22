@@ -15,15 +15,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - CrossCutting", "4.2 - CrossCutting", "{B15C9CCD-ACEF-4F5F-B7F1-FE584C88FE2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistetica.Application", "Sistetica.Application\Sistetica.Application.csproj", "{1A061C96-6D23-4E63-9990-116F392FFE77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistetica.Application", "Sistetica.Application\Sistetica.Application.csproj", "{1A061C96-6D23-4E63-9990-116F392FFE77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistetica.Domain", "Sistetica.Domain\Sistetica.Domain.csproj", "{F90869AB-2140-4ABC-999E-A8AAC9C7E393}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistetica.Domain", "Sistetica.Domain\Sistetica.Domain.csproj", "{F90869AB-2140-4ABC-999E-A8AAC9C7E393}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistetica.Service", "Sistetica.Service\Sistetica.Service.csproj", "{E0A79EDC-40EF-4FF9-975E-F5809BC79F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistetica.Service", "Sistetica.Service\Sistetica.Service.csproj", "{E0A79EDC-40EF-4FF9-975E-F5809BC79F79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistetica.Infra.Data", "Sistetica.Infra.Data\Sistetica.Infra.Data.csproj", "{9EDB091F-4468-4CA0-9A36-568FEF882B05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistetica.Infra.Data", "Sistetica.Infra.Data\Sistetica.Infra.Data.csproj", "{9EDB091F-4468-4CA0-9A36-568FEF882B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistetica.Infra.CrossCutting", "Sistetica.Infra.CrossCutting\Sistetica.Infra.CrossCutting.csproj", "{BA06DC0C-533F-4858-9BF3-123FE120EAD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sistetica.Infra.CrossCutting", "Sistetica.Infra.CrossCutting\Sistetica.Infra.CrossCutting.csproj", "{BA06DC0C-533F-4858-9BF3-123FE120EAD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
