@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
@@ -18,9 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Context\" />
-    <Folder Include="Mapping\" />
-    <Folder Include="Repository\" />
+    <ProjectReference Include="..\Sistetica.Domain\Sistetica.Domain.csproj" />
   </ItemGroup>
 
 </Project>
