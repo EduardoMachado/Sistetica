@@ -69,7 +69,7 @@ namespace Sistetica.Application.Controllers
                 return BadRequest(ex);
             }
         }
-
+        [HttpGet]
         public IActionResult Get()
         {
             try
